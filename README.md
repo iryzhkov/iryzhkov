@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iryzhkov.about_me)
+[![Visits Badge](https://badges.pufler.dev/visits/iryzhkov/iryzhkov)](https://badges.pufler.dev)
