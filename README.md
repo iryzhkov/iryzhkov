@@ -1,5 +1,5 @@
 <div align="center">
-### 👋 Hi there. I am Igor Ryzhkov
+  <h3>👋 Hi there. I am Igor Ryzhkov</h3>
 </div>
 
 ---
