@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+### 👋 Hi there. I am Igor Ryzhkov
+</div>
+
+---
+
+I am a student at Northwestern University.
+
+- 🌱 I’m currently learning Artificial Intelligence
 
 <!--
 **iryzhkov/iryzhkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
