@@ -4,7 +4,7 @@
 
 ---
 
-I am a student at Northwestern University.
+Currently, I am a student at Northwestern University.
 
 - 🌱 I’m currently learning Artificial Intelligence
 
