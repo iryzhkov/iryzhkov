@@ -1,5 +1,6 @@
 <div align="center">
   <h3>👋 Hi there. I am Igor Ryzhkov</h3>
+  [![Visits Badge](https://badges.pufler.dev/visits/iryzhkov/iryzhkov)](https://badges.pufler.dev)
 </div>
 
 ---
@@ -22,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Visits Badge](https://badges.pufler.dev/visits/iryzhkov/iryzhkov)](https://badges.pufler.dev)
