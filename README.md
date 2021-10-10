@@ -7,9 +7,12 @@
 
 ---
 
-Currently, I am a student at Northwestern University.
+Fall 2021 is going to be my last quarter in the Northwestern Univesity. This quarter I am taking the following classes:
 
-- 🌱 I’m currently learning Artificial Intelligence
+- Deep Reinforcement Learning
+- AI in Retail
+- AI & ML in Robotics
+- Independent Study (trying to publish an NLP paper)
 
 <!--
 **iryzhkov/iryzhkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
