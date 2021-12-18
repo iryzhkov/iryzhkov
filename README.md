@@ -7,12 +7,7 @@
 
 ---
 
-Fall 2021 is going to be my last quarter in the Northwestern Univesity. This quarter I am taking the following classes:
-
-- Deep Reinforcement Learning
-- AI in Retail
-- AI & ML in Robotics
-- Independent Study (trying to publish an NLP paper)
+I have just graduated from the MSAI program at the Northwestern University.
 
 <!--
 **iryzhkov/iryzhkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
